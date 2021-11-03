@@ -20,3 +20,5 @@ Goal: 背第一個Double, 加速第二個Double
 11／3（三）背完了
 
 ---
+
+[Go To Day 2](day2.md)
